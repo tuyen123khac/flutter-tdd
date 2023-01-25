@@ -51,6 +51,8 @@ gen-external-apklibs
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 .lock
+.ios/Flutter/.xcconfig
+.xcconfig
 
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
